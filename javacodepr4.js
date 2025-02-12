@@ -1,0 +1,1 @@
+const randomNumber=(parseInt(Math.random()*10+1));
